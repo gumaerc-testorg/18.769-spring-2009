@@ -5,6 +5,7 @@ file: /courses/18-769-topics-in-lie-theory-tensor-categories-spring-2009/8a51a9d
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: Complete Lecture Notes
 uid: 8a51a9d1-b57a-35a0-e6a5-804bdea6e146
 ---
 A complete set of lecture notes on Lie theory and tensor categories.
-

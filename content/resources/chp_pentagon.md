@@ -9,10 +9,10 @@ image_metadata:
   credit: ''
   image-alt: ''
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 resourcetype: Image
 title: Pentagon axiom diagram
 uid: 1e99c205-5115-6a08-2236-a6ebf72e5949
 ---
 The pentagon axiom is commutative for all objects W, X, Y, Z, in C. (Image by MIT OpenCourseWare.)
-
