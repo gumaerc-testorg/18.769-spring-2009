@@ -1,14 +1,20 @@
 ---
 content_type: page
+description: This section provides the schedule of lecture topics for the course and
+  a complete set of course notes prepared jointly by Prof. Pavel Etingof, Shlomo Gelaki,
+  Dmitri Nikshych, and Victor Ostrik.
+learning_resource_types:
+- Lecture Notes
+ocw_type: CourseSection
 title: Lecture Notes
 uid: 1bdabde7-582a-7207-a355-f2b5fd84cbc6
 ---
 
 The course notes were prepared jointly by Prof. Pavel Etingof, Shlomo Gelaki, Dmitri Nikshych, and Victor Ostrik.
 
-The book _Tensor Categories_ based on these 2009 notes was published by the American Mathematical Society in 2015. A ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[complete file of the book (PDF - 3.1MB)](http://www-math.mit.edu/~etingof/egnobookfinal.pdf) is on Prof. Etingof's webpage. \[Please note: This file cannot be posted on any website not belonging to the authors.\]
+The book _Tensor Categories_ based on these 2009 notes was published by the American Mathematical Society in 2015. A [complete file of the book (PDF - 3.1MB)](http://www-math.mit.edu/~etingof/egnobookfinal.pdf) is on Prof. Etingof's webpage. \[Please note: This file cannot be posted on any website not belonging to the authors.\]
 
-Complete 2009 lecture notes in one file ([PDF - 2.5MB]({{< baseurl >}}/resources/mit18_769s09_notes))
+Complete 2009 lecture notes in one file ({{% resource_link 8a51a9d1-b57a-35a0-e6a5-804bdea6e146 "PDF - 2.5MB" %}})
 
 {{< tableopen >}}
 {{< theadopen >}}
@@ -34,7 +40,7 @@ LECTURE NOTES
 Basics of monoidal categories
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit18_769s09_lec01))
+({{% resource_link bf27f157-5ef7-e43e-dad6-ac9b8b85ac5a "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -52,7 +58,7 @@ MacLane's strictness theorem
 
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit18_769s09_lec02))
+({{% resource_link e8182602-c56b-2448-f445-5986338e986e "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -74,7 +80,7 @@ Tensor and multitensor categories
 
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit18_769s09_lec03))
+({{% resource_link ecf8da86-e596-bf01-3202-3c7dff5732b4 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -102,7 +108,7 @@ Coalgebras
 
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit18_769s09_lec04))
+({{% resource_link 63f8d9e6-d926-a1d4-bbb9-8f9b7790c6f6 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -114,7 +120,7 @@ Coalgebras
 Bialgebras and Hopf algebras
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit18_769s09_lec05))
+({{% resource_link 411b2cbd-c7f4-ccd2-6dc4-30d4c9ea9838 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -138,7 +144,7 @@ Chevalley's theorem and Chevalley property
 
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit18_769s09_lec06))
+({{% resource_link 041cee4c-86b5-e5af-0442-3e900bcb36fc "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -158,7 +164,7 @@ Quasi-bialgebras and quasi-Hopf algebras
 
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit18_769s09_lec07))
+({{% resource_link dc40161e-149a-ed4f-6e17-67a62c215d97 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -184,7 +190,7 @@ Frobenius-Perron theorem
 
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit18_769s09_lec08))
+({{% resource_link f2d0e33e-705b-06db-cbfc-b263fc681c84 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -206,7 +212,7 @@ Categorical freeness
 
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit18_769s09_lec09))
+({{% resource_link ae5ba8bc-c60b-9c52-3f2b-ed125d634431 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -228,7 +234,7 @@ Basics of Module categories
 
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit18_769s09_lec10))
+({{% resource_link 7d1e490d-bd91-d10e-5c9d-712ffa703458 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -248,7 +254,7 @@ Internal Hom
 
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit18_769s09_lec11))
+({{% resource_link 80709faf-3298-137c-c569-40a8ea0dd35f "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -268,7 +274,7 @@ Dual categories
 
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit18_769s09_lec12))
+({{% resource_link 372f7ba3-b4a0-6fac-a054-5ee004d1bf67 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}

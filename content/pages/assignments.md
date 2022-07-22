@@ -1,10 +1,15 @@
 ---
 content_type: page
+description: This section provides the exercises assigned for each session of the
+  course.
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 title: Assignments
 uid: 8c3d3f31-9557-3e0b-468c-cb28a7083aa2
 ---
 
-Exercises can be found in the [lecture notes]({{< baseurl >}}/pages/lecture-notes).
+Exercises can be found in the {{% resource_link 1bdabde7-582a-7207-a355-f2b5fd84cbc6 "lecture notes" %}}.
 
 {{< tableopen >}}
 {{< theadopen >}}

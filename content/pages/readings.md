@@ -1,10 +1,15 @@
 ---
 content_type: page
+description: This section provides the selections students are required to read to
+  prepare for each class session of the course.
+learning_resource_types:
+- Readings
+ocw_type: CourseSection
 title: Readings
 uid: 4a61e278-f0f4-870b-5259-625d575bd2b2
 ---
 
-In order to prepare for class, students are required to read selections from the course notes. These readings can be found on the [lecture notes]({{< baseurl >}}/pages/lecture-notes) page.
+In order to prepare for class, students are required to read selections from the course notes. These readings can be found on the {{% resource_link 1bdabde7-582a-7207-a355-f2b5fd84cbc6 "lecture notes" %}} page.
 
 {{< tableopen >}}
 {{< theadopen >}}
