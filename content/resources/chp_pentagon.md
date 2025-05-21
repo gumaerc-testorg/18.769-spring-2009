@@ -2,7 +2,7 @@
 content_type: resource
 description: The pentagon axiom is commutative for all objects W, X, Y, Z, in C. (Image
   by MIT OpenCourseWare.)
-file: /ol-ocw-studio-app/courses/18-769-topics-in-lie-theory-tensor-categories-spring-2009/1e99c20551156a082236a6ebf72e5949_chp_pentagon.jpg
+file: /courses/18-769-topics-in-lie-theory-tensor-categories-spring-2009/1e99c20551156a082236a6ebf72e5949_chp_pentagon.jpg
 file_size: 14978
 file_type: image/jpeg
 image_metadata:
