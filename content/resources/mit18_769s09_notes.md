@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: A complete set of lecture notes on Lie theory and tensor categories.
-file: /courses/18-769-topics-in-lie-theory-tensor-categories-spring-2009/8a51a9d1b57a35a0e6a5804bdea6e146_MIT18_769S09_notes.pdf
+file: /ol-ocw-studio-app/courses/18-769-topics-in-lie-theory-tensor-categories-spring-2009/8a51a9d1b57a35a0e6a5804bdea6e146_MIT18_769S09_notes.pdf
 file_size: 2564980
 file_type: application/pdf
 learning_resource_types:
