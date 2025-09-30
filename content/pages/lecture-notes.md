@@ -12,7 +12,7 @@ uid: 1bdabde7-582a-7207-a355-f2b5fd84cbc6
 
 The course notes were prepared jointly by Prof. Pavel Etingof, Shlomo Gelaki, Dmitri Nikshych, and Victor Ostrik.
 
-The book _Tensor Categories_ based on these 2009 notes was published by the American Mathematical Society in 2015. A [complete file of the book (PDF - 3.1MB)](http://www-math.mit.edu/~etingof/egnobookfinal.pdf) is on Prof. Etingof's webpage. \[Please note: This file cannot be posted on any website not belonging to the authors.\]
+The book _Tensor Categories_ based on these 2009 notes was published by the American Mathematical Society in 2015. A {{% resource_link "46d90246-284b-4b40-917f-b2542496bf3d" "complete file of the book (PDF - 3.1MB)" %}} is on Prof. Etingof's webpage. \[Please note: This file cannot be posted on any website not belonging to the authors.\]
 
 Complete 2009 lecture notes in one file ({{% resource_link 8a51a9d1-b57a-35a0-e6a5-804bdea6e146 "PDF - 2.5MB" %}})
 
